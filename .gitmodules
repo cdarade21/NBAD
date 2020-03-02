@@ -1,0 +1,15 @@
+[submodule "Milestone1"]
+	path = Milestone1
+	url = https://github.com/cdarade21/NBAD.git
+[submodule "Milestone2"]
+	path = Milestone2
+	url = https://github.com/cdarade21/NBAD.git
+[submodule "NBAD_14th_Feb"]
+	path = NBAD_14th_Feb
+	url = https://github.com/cdarade21/NBAD.git
+[submodule "NBAD_28th_Feb"]
+	path = NBAD_28th_Feb
+	url = https://github.com/cdarade21/NBAD.git
+[submodule "NBAD_31st_Jan"]
+	path = NBAD_31st_Jan
+	url = https://github.com/cdarade21/NBAD.git
